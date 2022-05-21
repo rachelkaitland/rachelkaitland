@@ -1,16 +1,65 @@
-### Hi there 👋
+<div id="header" align="center">
+  
+![raechullsmall](https://user-images.githubusercontent.com/102691511/169659612-0af85a78-b562-42cf-bbf6-bc0d58fc531a.jpg)
 
-<!--
-**rachelkaitland/rachelkaitland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/rachelkaitland/">
+    <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://rachelkaitland.netlify.app/">
+    <img src="https://img.shields.io/badge/RachelKaitland-yellow?style=for-the-badge"/>
+  </a>
+  <a href="https://twitter.com/RachelKaitland">
+    <img src="https://img.shields.io/badge/Twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+  
+  <h1>
+    <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="50px"/>
+    Welcome to my page!
+  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="50px"/>
+</h1>
+  
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  ![Rachelkaitlandbanner](https://user-images.githubusercontent.com/102691511/169659516-2276b9a5-24d2-4f14-a51e-6ae59dbc316c.jpg)
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+###   <img src="https://media.giphy.com/media/rP6Ogaeay6vYzf0TDt/giphy.gif" width="40px"/> About Me :
+
+<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20px"/>I'm a Web Developer from Toronto! I love all things cute and pink with a lot of glitter and sparkles. I am currently learning the ins and outs of JavaScript. I love learning and colaborating with others, feel free to reach out if you wanna say Hi! :white_heart: <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20px"/>
+
+ <a href="https://www.linkedin.com/in/rachelkaitland/">
+    <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+--- 
+
+
+<div>
+<!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; --><!--   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp; -->
+ 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+</div>
+  
+  </div>
+  
+  
+<!-- 
+---
+
+### :white_heart: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rachelkaitland&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelkaitland&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div> -->
