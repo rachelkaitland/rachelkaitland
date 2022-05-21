@@ -1,6 +1,7 @@
 <div id="header" align="center">
   
-![raechullsmall](https://user-images.githubusercontent.com/102691511/169659612-0af85a78-b562-42cf-bbf6-bc0d58fc531a.jpg)
+![Rachelkaitlandbanner](https://user-images.githubusercontent.com/102691511/169661098-f63520ad-cb3b-4c01-b903-377952e4476c.jpg)
+
 
   
   <div id="badges">
@@ -25,8 +26,9 @@
 
 <div align="center">
   
-  ![Rachelkaitlandbanner](https://user-images.githubusercontent.com/102691511/169659516-2276b9a5-24d2-4f14-a51e-6ae59dbc316c.jpg)
   
+  ![raechullsmall](https://user-images.githubusercontent.com/102691511/169661105-edfbd0f9-c787-42b8-aaf4-f2332cdf3507.jpg)
+
 
 
 ---
