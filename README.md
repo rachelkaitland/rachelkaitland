@@ -17,9 +17,9 @@
 </div>
   
   <h1>
-    <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="50px"/>
+    <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="50"/>
     Welcome to my page!
-  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="50px"/>
+  <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="50"/>
 </h1>
   
 </div>
