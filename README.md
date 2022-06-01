@@ -33,9 +33,9 @@
 
 ---
 
-###   <img src="https://media.giphy.com/media/rP6Ogaeay6vYzf0TDt/giphy.gif" width="40px"/> About Me :
+###   <img src="https://media.giphy.com/media/rP6Ogaeay6vYzf0TDt/giphy.gif" width="40"/> About Me :
 
-<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20px"/>I'm a Web Developer from Toronto! I love all things cute and pink with a lot of glitter and sparkles. I am currently learning the ins and outs of JavaScript. I love learning and colaborating with others, feel free to reach out if you wanna say Hi! :white_heart: <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20px"/>
+<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20px"/>I'm a Web Developer from Toronto! I love all things cute and pink with a lot of glitter and sparkles. I am currently learning the ins and outs of JavaScript. I love learning and colaborating with others, feel free to reach out if you wanna say Hi! :white_heart: <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>
 
  <a href="https://www.linkedin.com/in/rachelkaitland/">
     <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
