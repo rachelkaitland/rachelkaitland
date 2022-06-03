@@ -27,7 +27,7 @@
 <div align="center">
   
   
-  ![raechullsmall](https://user-images.githubusercontent.com/102691511/169661105-edfbd0f9-c787-42b8-aaf4-f2332cdf3507.jpg)
+  
 
 
 
