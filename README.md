@@ -28,9 +28,9 @@
 
 <div align="center">
 
-###   <img src="https://media.giphy.com/media/rP6Ogaeay6vYzf0TDt/giphy.gif" width="40"/> About Me :
+###    Hey, my name is Rachel! 
 
-<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>I'm a Web Developer from Toronto! I love all things cute and pink with a lot of glitter and sparkles. I am currently learning the ins and outs of JavaScript. I love learning and colaborating with others, feel free to reach out if you wanna say Hi! 😸 <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>
+<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/> I'm a Web Developer and amateur graphic artist with a passion for design. I'm currently learning the ins and outs of JavaScript, express, node, API's and more.  I love learning and colaborating with others, feel free to reach out if you wanna say Hi! 😸 <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>
 
  
 
@@ -42,6 +42,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+
 </div>
   
   
@@ -53,5 +56,5 @@
 ### :white_heart: 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelkaitland&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelkaitland)](https://github.com/rachelkaitland/github-readme-stats)
   </div> 
