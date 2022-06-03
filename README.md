@@ -30,7 +30,7 @@
 
 ###   <img src="https://media.giphy.com/media/rP6Ogaeay6vYzf0TDt/giphy.gif" width="40"/> About Me :
 
-<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>I'm a Web Developer from Toronto! I love all things cute and pink with a lot of glitter and sparkles. I am currently learning the ins and outs of JavaScript. I love learning and colaborating with others, feel free to reach out if you wanna say Hi! :white_heart: <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>
+<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>I'm a Web Developer from Toronto! I love all things cute and pink with a lot of glitter and sparkles. I am currently learning the ins and outs of JavaScript. I love learning and colaborating with others, feel free to reach out if you wanna say Hi! 😸 <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>
 
  
 
@@ -44,15 +44,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
   
-  </div>
   
   
-<!-- 
----
+  
 
-### :white_heart: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rachelkaitland&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### :white_heart: 
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachelkaitland&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div> -->
+  </div> 
