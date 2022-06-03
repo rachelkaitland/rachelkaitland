@@ -25,13 +25,6 @@
 </div>
 
 <div align="center">
-  
-  
-  
-
-
-
----
 
 ###   <img src="https://media.giphy.com/media/rP6Ogaeay6vYzf0TDt/giphy.gif" width="40"/> About Me :
 
