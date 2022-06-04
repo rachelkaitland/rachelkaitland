@@ -30,7 +30,7 @@
 
 ###    Hey, my name is Rachel! 
 
-<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/> I'm a Web Developer and graphic artist with a passion for design. I'm currently learning the ins and outs of JavaScript, express, node, API's and more.  I love learning and colaborating with others, feel free to reach out if you wanna say Hi! 😸 <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>
+<img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/> I'm a web dveloper and graphic artist with a passion for design. I'm currently learning the ins and outs of JavaScript, express, node, API's and more.  I love learning and colaborating with others, feel free to reach out if you wanna say Hi! 😸 <img src="https://media.giphy.com/media/xT9IgjNENUaf4ypqBa/giphy.gif" width="20"/>
 
  
 
